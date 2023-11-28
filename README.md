@@ -1,1 +1,1 @@
-# tech-basics
+# Tech Basics
